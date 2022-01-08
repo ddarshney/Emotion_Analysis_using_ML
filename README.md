@@ -1,4 +1,4 @@
-# Emotion_Analysis_using_ML
+# Twitter_Sentiment_Analysis
  We will be using Natural Language Processing or it's called NLP in short. to analyse emotions and sentiments of given text.
  In this project we will be able to:
  
